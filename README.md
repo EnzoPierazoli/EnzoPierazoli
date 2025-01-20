@@ -18,4 +18,4 @@ Estou cursando ADS na FIAP e fazendo cursos para aprimorar meu conhecimento na √
 
 ## ‚≠ê GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoPierazoli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
