@@ -2,6 +2,8 @@
 
 Estou cursando ADS na FIAP e fazendo cursos para aprimorar meu conhecimento na área, em busca da minha primeira oportunidade!
 
+Tenho interesse na área de backend, meu objetivo atual é me aprimorar em Java e me especializar nessa linguagem!
+
 ---
 
 ## 🚀 Minhas Skills
